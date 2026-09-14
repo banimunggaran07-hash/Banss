@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Kalkulator Taksasi</string>
+    <string name="title_top_app_bar">Kalkulator Taksasi &amp; Pinjaman</string>
+    <string name="title_section_cek_clop">Cek Bahan Clop</string>
+    <string name="desc_section_cek_clop">Cari riwayat data nasabah atau motor berdasarkan nomor kontrak atau mesin</string>
+    <string name="label_no_kontrak_nosin">No. Kontrak / Nosin</string>
+    <string name="hint_no_kontrak_nosin">Contoh: CTR-2024-8891 / MH1JF123</string>
+    <string name="btn_search">Cari</string>
+    <string name="title_section_taksasi">Form Taksasi &amp; Simulasi</string>
+    <string name="label_nilai_otr">Nilai OTR Motor (Rp)</string>
+    <string name="hint_nilai_otr">Contoh: 25.000.000</string>
+    <string name="label_tipe_customer">Tipe Customer</string>
+    <string name="label_status_stnk">Status Kepemilikan STNK</string>
+    <string name="label_sisa_angsuran">Sisa Angsuran Kontrak Lama (Rp)</string>
+    <string name="hint_sisa_angsuran">Contoh: 3.500.000 (Isi 0 jika lunas)</string>
+    <string name="title_result_card">Hasil Simulasi Pinjaman</string>
+    <string name="label_plafond_max">Plafond Max (%)</string>
+    <string name="label_maksimal_pinjaman">Maksimal Pinjaman</string>
+    <string name="label_pelunasan_kontrak_lama">Pelunasan Kontrak Lama</string>
+    <string name="label_jumlah_materai">Jumlah Materai</string>
+    <string name="label_biaya_materai">Biaya Materai</string>
+    <string name="desc_biaya_materai">@string/desc_biaya_materai_val</string>
+    <string name="desc_biaya_materai_val">Per 1 materai seharga Rp 10.000</string>
+    <string name="label_total_dana_cair">TOTAL DANA CAIR BERSIH</string>
+    <string name="btn_ajukan_sekarang">Ajukan Sekarang</string>
+    <string name="title_pengaturan">Menu Pengaturan</string>
+    <string name="desc_pengaturan">Kelola Harga Pasar OTR, Data Bahan Clop, dan % Plafond Customer</string>
+    <string name="tab_harga_pasar">Harga Pasar</string>
+    <string name="tab_bahan_clop">Data Bahan Clop</string>
+    <string name="tab_persen_customer">Pengaturan % Customer</string>
+    <string name="action_settings">Pengaturan</string>
+</resources>
